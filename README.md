@@ -25,7 +25,8 @@ Steps to Replicate the App -
 
 
 ![Screenshot 2025-02-22 at 10 12 05 PM](https://github.com/user-attachments/assets/c02f4508-0f73-44f6-bedf-ca9fcfc1b77e)
+![Screenshot 2025-02-22 at 10 12 24 PM](https://github.com/user-attachments/assets/ef7af2e3-d468-490f-bcdf-cbbb12e32110)
+![Screenshot 2025-02-22 at 10 12 49 PM](https://github.com/user-attachments/assets/9b7d8abf-ac00-4214-8e96-4dc2d59e6997)
 ![Screenshot 2025-02-22 at 10 13 29 PM](https://github.com/user-attachments/assets/de09ca51-bc23-495e-b2b2-1b8f26064e61)
 ![Screenshot 2025-02-22 at 10 13 18 PM](https://github.com/user-attachments/assets/f455088a-4679-41db-a7ce-6b5598f0c3cc)
-![Screenshot 2025-02-22 at 10 12 49 PM](https://github.com/user-attachments/assets/9b7d8abf-ac00-4214-8e96-4dc2d59e6997)
-![Screenshot 2025-02-22 at 10 12 24 PM](https://github.com/user-attachments/assets/ef7af2e3-d468-490f-bcdf-cbbb12e32110)
+
