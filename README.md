@@ -1,32 +1,97 @@
-Dice-Blackjack is an engaging two-player dice game that puts a unique spin on traditional blackjack. Players compete by rolling between 2 to 4 dice, aiming to get as close to 16 as possible without going over.
+# 🎲 Dice-Blackjack
 
+Dice-Blackjack is an exciting two-player iOS game that fuses the thrill of Blackjack with the randomness of dice. Strategically bet, roll, and try to hit the magic number: **16**. Go over, and you're out!
 
-Before each round, players place their bets using an intuitive slider system, adding a strategic gambling element to the game.
+---
 
+## 🕹 Game Concept
 
-The game features a responsive design that seamlessly adapts between portrait and landscape orientations, complete with smooth dice rolling animations that bring the gameplay to life. Players can personalize their experience by entering custom names, and new players can quickly learn the game through an accessible rules modal. 
+- Players take turns rolling **2 to 4 dice**, trying to get as close to **16** without going over.
+- Each round begins with a **customizable bet** using an intuitive slider.
+- The player who gets closer to 16 **without busting** wins the round and claims the pot.
+- Fast, engaging, and luck-driven gameplay for all ages.
 
+---
 
-Going over 16 results in an immediate loss, making each roll a tense decision of whether to play it safe or risk it all for a better score. 
+## 📱 Key Features
 
+| Feature | Description |
+|--------|-------------|
+| 🎨 **Responsive Design** | Adapts seamlessly to both portrait and landscape orientations. |
+| 🎲 **Dice Rolling Animations** | Smooth and realistic dice rolling visuals. |
+| 🧑‍🤝‍🧑 **Player Customization** | Enter your own player names for a personalized experience. |
+| 💸 **Betting System** | Use a slider to set wagers for each round. |
+| 📘 **Rules Modal** | Built-in game instructions for new players. |
+| ℹ️ **About Section** | Displays developer information and credits. |
 
-The game also includes an about section with developer information, rounding out a polished and feature-complete gaming experience.
+---
 
-Steps to Replicate the App - 
+## 🛠 Setup Instructions
 
-1. Create a new IOS App in Xcode
+### 📦 Step 1: Create a New iOS Project
 
-2. After creating the project, add each file provided as shown below
+1. Open **Xcode**.
+2. Create a new **iOS App** project named `Dice_Game`.
 
-![image](https://github.com/user-attachments/assets/58e966c6-3a08-4624-9fec-cb6effe9b42c)
+### 📂 Step 2: Add Files
 
-3. Run the game and have fun!!
+Add the following files/folders into your Xcode project:
 
+- `Dice_GameApp.swift`
+- `ViewModel/DiceViewModel.swift`
+- `Views/` folder (contains game UI components)
+- `Assets.xcassets/` (for dice and UI assets)
+- `Info.plist` (already configured)
 
+> 🔽 Make sure assets like the dice images and icons are correctly placed in `Assets.xcassets`.
 
-![Screenshot 2025-02-22 at 10 12 05 PM](https://github.com/user-attachments/assets/c02f4508-0f73-44f6-bedf-ca9fcfc1b77e)
-![Screenshot 2025-02-22 at 10 12 24 PM](https://github.com/user-attachments/assets/ef7af2e3-d468-490f-bcdf-cbbb12e32110)
-![Screenshot 2025-02-22 at 10 12 49 PM](https://github.com/user-attachments/assets/9b7d8abf-ac00-4214-8e96-4dc2d59e6997)
-![Screenshot 2025-02-22 at 10 13 29 PM](https://github.com/user-attachments/assets/de09ca51-bc23-495e-b2b2-1b8f26064e61)
-![Screenshot 2025-02-22 at 10 13 18 PM](https://github.com/user-attachments/assets/f455088a-4679-41db-a7ce-6b5598f0c3cc)
+### ▶️ Step 3: Run the Game
 
+Press the **Run** button (▶️) in Xcode.  
+Choose an iOS Simulator or real device, and start playing!
+
+---
+
+## 📸 Screenshots
+
+| Landing Page | Rules page | Names Page |
+|---------|------------|-------------|
+| ![Landing Page](https://github.com/user-attachments/assets/c02f4508-0f73-44f6-bedf-ca9fcfc1b77e) | ![Rules Page](https://github.com/user-attachments/assets/ef7af2e3-d468-490f-bcdf-cbbb12e32110) | ![Names Page](https://github.com/user-attachments/assets/9b7d8abf-ac00-4214-8e96-4dc2d59e6997) |
+
+---
+
+## 💡 Strategy Tips
+
+- Stop early if you're close to 16 — risk management is key.
+- Higher bets = higher reward but higher risk.
+- Learn your opponent’s habits to anticipate their play style.
+
+---
+
+## 👨‍💻 About the Developer
+
+Created by **Nishanth Vaidya**  
+- 🎓 Syracuse University  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nv2/)  
+- 💻 [GitHub](https://github.com/NishanthVaidya)
+
+---
+
+## 📄 License
+
+This game is released under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to:
+- SwiftUI for intuitive UI development.
+- Apple's HIG (Human Interface Guidelines).
+- All testers and feedback providers.
+
+---
+
+## 🤝 Contributions
+
+Pull requests are welcome. If you have feature ideas (multiplayer, scoreboards, etc.), feel free to open an issue!
